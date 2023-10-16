@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1679816193",
+    "project_id": "login-719db",
+    "storage_bucket": "login-719db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1679816193:android:c24cea6d2d33136ed8f200",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiQfuZrHoq1fH39ksm_Q2EqLeEW1G3VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
